@@ -45,6 +45,7 @@ class TestExport(unittest.TestCase):
         """
         重构模块的导出
         """
+        self.logger.info('开始执行用例了1111111111111111111111111')
         self.logger.info('开始导出--------------new_export')
         ReadNewExport(self.driver, self.logger).test_new_export()
         self.logger.info('结束导出--------------new_export')

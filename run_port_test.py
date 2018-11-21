@@ -35,7 +35,6 @@ suite = unittest.TestLoader().discover('H:/WaiQin/testcase', pattern='test*.py')
 if __name__ == '__main__':
     # 执行用例
     # 初始化一个HTMLTestRunner实例对象，用来生成报告（stream用来指定测试报告文件，title定义测试报告标题，description定义测试报告副标题）
-    print('开始执行用例了1111111111111111111111111')
     runner = HTMLTestRunner(stream=fp, title=report_title, description=report_descibe)
     # 开始执行测试套件中所组装的测试用例
     runner.run(suite)
