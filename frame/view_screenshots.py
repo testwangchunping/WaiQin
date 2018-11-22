@@ -1,4 +1,5 @@
 from frame.screenshoot import get_window_img
+import sys
 
 
 def view_screenshots(self, logger, func_name, pic_num=0):

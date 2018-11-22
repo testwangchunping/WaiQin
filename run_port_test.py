@@ -2,6 +2,7 @@
 # 保证程序能够在cmd运行
 import sys
 import os
+
 curPath = os.path.abspath(os.path.dirname(__file__))
 rootPath = os.path.split(curPath)[0]
 sys.path.append(rootPath)
@@ -13,7 +14,7 @@ from Tools.HTMLTestRunner_PY3 import HTMLTestRunner
 
 readConfig = ReadConfigFile()
 # 设置报告文件保存路径（绝对路径才能在cmd运行）
-report_path = 'H:/WaiQin/Report/'
+report_path = readConfig.report_path
 # 设置报告名
 report_name = 'Report.html'
 # 设置报告标题
@@ -30,7 +31,9 @@ fp = open(HtmlFile, "wb")
 # discover找到指定目录下所有测试模块，并可递归查到子目录下的测试模块，只有匹配到的文件才能被加载
 # 跑testsuite包下所有测试用例,在实际脚本开发过程中，最后都采用这个方法来批量管理和执行几百上千的测试用例
 # suite = unittest.TestLoader().discover(suites_path, pattern='test*.py')
-suite = unittest.TestLoader().discover('H:/WaiQin/testcase', pattern='test*.py')
+# 设置用例路径
+testcase_path = readConfig.testcase_path
+suite = unittest.TestLoader().discover(testcase_path, pattern='test*.py')
 
 if __name__ == '__main__':
     # 执行用例

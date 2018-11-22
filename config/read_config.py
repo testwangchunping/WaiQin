@@ -5,7 +5,6 @@ class ReadConfigFile(object):
     # 登陆
     # file_path = './' + 'src/wq_import_export/config/config.ini'
     file_path = 'H:/WaiQin/config/config.ini'
-
     config = configparser.ConfigParser()
 
     config.read(file_path, encoding='utf-8-sig')
@@ -32,3 +31,12 @@ class ReadConfigFile(object):
     old_import_sheet1 = config.get('filePath', 'old_import_sheet1')
 
     import_data_filepath = config.get('filePath', 'import_data_filepath')
+    chrome_path = config.get('filePath', 'chrome_path')
+    fire_path = config.get('filePath', 'fire_path')
+    ie_path = config.get('filePath', 'ie_path')
+
+    log_path = config.get('filePath', 'log_path')
+
+    screenshot_path = config.get('filePath', 'screenshot_path')
+    report_path = config.get('filePath', 'report_path')
+    testcase_path = config.get('filePath', 'testcase_path')
