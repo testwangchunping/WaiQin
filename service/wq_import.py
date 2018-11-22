@@ -1,6 +1,6 @@
 # coding=utf-8
-import os
 import time
+import os
 from selenium.webdriver.common.by import By
 from config.read_config import ReadConfigFile
 from frame.iframe_skip import iframe_skip
@@ -21,7 +21,7 @@ class WqImport(object):
     # 导入失败的提示
     error_message = '没有可导入的文件、导入文件名错误、导入失败或请求超时'
     readConfig = ReadConfigFile()
-    file_path = readConfig.import_data_filepath
+    file_path = os.path.abspath(readConfig.import_data_filepath)
     # 导入按钮
     import_button_group = 'more-select-box-ipt_client_climanage_import_button_group'  # 客户管理组合导入按钮
     import_text = '导入'  # 普通导入按钮

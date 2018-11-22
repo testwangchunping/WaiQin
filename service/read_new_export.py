@@ -1,5 +1,5 @@
 # coding=utf-8
-
+import os
 from frame.go_homepage import go_Homepage
 from frame.delete_blank import delete_blank
 from frame.open_excel import open_excel
@@ -18,7 +18,7 @@ class ReadNewExport(object):
 
     # 新导出，无table项
     def test_new_export(self):
-        file_path = self.readConfig.port_data_filepath
+        file_path = os.path.abspath(self.readConfig.port_data_filepath)
         sheet_name = self.readConfig.new_export_sheet
 
         # 打开excel文件的具体sheet
@@ -41,7 +41,7 @@ class ReadNewExport(object):
 
     # 新导出，有table项
     def test_new_export1(self):
-        file_path = self.readConfig.port_data_filepath
+        file_path = os.path.abspath(self.readConfig.port_data_filepath)
         sheet_name = self.readConfig.new_export_sheet1
         # 打开excel文件的具体sheet
         DataSheet = open_excel(file_path, sheet_name)

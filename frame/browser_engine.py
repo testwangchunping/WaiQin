@@ -1,5 +1,5 @@
 # coding=utf-8
-
+import os
 from selenium import webdriver
 from config.read_config import ReadConfigFile
 
@@ -9,9 +9,9 @@ class BrowserEngine(object):
     定义一个浏览器引擎类，跟进browser_type的值，控制启动不同的浏览器，主要是IE,Firefox，Chrome
     """
     # 读取驱动路径
-    chrome_path = ReadConfigFile().chrome_path
-    fire_path = ReadConfigFile().file_path
-    ie_path = ReadConfigFile().ie_path
+    chrome_path = os.path.abspath(ReadConfigFile().chrome_path)
+    fire_path = os.path.abspath(ReadConfigFile().fire_path)
+    ie_path = os.path.abspath(ReadConfigFile().ie_path)
 
     driver = None
     # 读取打开的浏览器

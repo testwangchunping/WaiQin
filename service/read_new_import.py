@@ -1,5 +1,5 @@
 # coding=utf-8
-
+import os
 from frame.go_homepage import go_Homepage
 from frame.delete_blank import delete_blank
 from frame.open_excel import open_excel
@@ -19,7 +19,7 @@ class ReadNewImport(object):
 
     # 新导入，无table项
     def read_new_import(self):
-        file_path = self.readConfig.port_data_filepath
+        file_path = os.path.abspath(self.readConfig.port_data_filepath)
         sheet_name = self.readConfig.new_import_sheet
         # 打开excel文件的具体sheet
         try:
@@ -41,7 +41,7 @@ class ReadNewImport(object):
 
     # 新导出，有table项
     def read_new_import1(self):
-        file_path = self.readConfig.port_data_filepath
+        file_path = os.path.abspath(self.readConfig.port_data_filepath)
         sheet_name = self.readConfig.new_import_sheet1
         # 打开excel文件的具体sheet
         DataSheet = open_excel(file_path, sheet_name)

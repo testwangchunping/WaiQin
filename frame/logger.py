@@ -1,5 +1,6 @@
 # _*_ coding: utf-8 _*_
 import logging
+import os
 from frame.get_time import GetTime
 from config.read_config import ReadConfigFile
 
@@ -20,7 +21,7 @@ class Logger(object):
 
         # 定义写入日志文件的位置和日志文件名
         rq = GetTime().get_system_time()
-        log_name = ReadConfigFile().log_path + rq + '.log'
+        log_name = os.path.abspath(ReadConfigFile().log_path) + rq + '.log'
 
         # 创建一个handler，用于输出到文件
         fh = logging.FileHandler(log_name, encoding='utf-8')

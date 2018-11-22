@@ -1,9 +1,10 @@
 # 该方法用来截图的,文件命名imgname
+import os
 from config.read_config import ReadConfigFile
 
 
 def get_window_img(self, logger, img_name, num):
-    screenshot_path = ReadConfigFile().screenshot_path
+    screenshot_path = os.path.abspath(ReadConfigFile().screenshot_path)
     img_path = screenshot_path + img_name + str(num) + '.jpg'
 
     try:
