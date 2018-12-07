@@ -8,3 +8,15 @@ def webElementWait(driver, type, error_tips):
         EC.presence_of_element_located((type, error_tips)))
     tips = message.text
     return tips
+
+
+def webElementWait_repeat(driver, type, error_tips):
+    tips = ''
+    try:
+        # webdriver 显示等待：WebDriverWait
+        message = WebDriverWait(driver, 30, 1, None).until(
+            EC.presence_of_element_located((type, error_tips)))
+        tips = message.text
+    except:
+        pass
+    return tips

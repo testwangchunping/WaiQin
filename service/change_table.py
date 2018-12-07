@@ -4,8 +4,8 @@ from frame.iframe_skip import iframe_skip
 from frame.is_element_exist import IsElementExist
 
 
-def change_table(mlist, i, driver):
-    module_name = mlist[i]
+def change_table(mlist, driver):
+    module_name = mlist
     element = IsElementExist(driver).is_element_exist(By.LINK_TEXT, module_name)
     if element:
         driver.find_element(By.LINK_TEXT, module_name).click()

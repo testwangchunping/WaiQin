@@ -35,10 +35,6 @@ class TestImport(unittest.TestCase):
         ReadOldImport(self.driver, self.logger).read_old_import()
         self.logger.info('结束导入--------------old_import')
 
-        self.logger.info('开始导入--------------old_import1')
-        ReadOldImport(self.driver, self.logger).read_old_import1()
-        self.logger.info('结束导入--------------old_import1')
-
         # 截图
         name = sys._getframe().f_code.co_name
         TestImport.num = self.num + 1
@@ -51,10 +47,6 @@ class TestImport(unittest.TestCase):
         self.logger.info('开始导入--------------new_import')
         ReadNewImport(self.driver, self.logger).read_new_import()
         self.logger.info('结束导入--------------new_import')
-
-        self.logger.info('开始导入--------------new_import1')
-        ReadNewImport(self.driver, self.logger).read_new_import1()
-        self.logger.info('结束导入--------------new_import1')
 
         # 截图
         name = sys._getframe().f_code.co_name
