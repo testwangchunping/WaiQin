@@ -33,7 +33,7 @@ fp = open(HtmlFile, "wb")
 # suite = unittest.TestLoader().discover(suites_path, pattern='test*.py')
 # 设置用例路径
 testcase_path = os.path.abspath(readConfig.testcase_path)
-suite = unittest.TestLoader().discover(testcase_path, pattern='test*.py')
+suite = unittest.TestLoader().discover(testcase_path, pattern='test_ex*.py')
 
 if __name__ == '__main__':
     # 执行用例

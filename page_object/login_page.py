@@ -14,8 +14,8 @@ class LoginPage(object):
     password_name = (By.NAME, 'pass')
     login_button = (By.CLASS_NAME, 'login_btn')
 
-    server = input('请输入需要测试的服务器：cms/cms3/cms5/cms7/cs,并点击enter执行测试任务:')
-    sql = "SELECT * from URL where server = '" + str(server) + "' "
+    server = 'cms3'
+    sql = "SELECT * from URL where server = '" + server + "' "
     data = db_connect(sql)
     for item in data:
         f5_url = item[1]

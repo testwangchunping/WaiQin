@@ -26,7 +26,7 @@ class ReadNewExport(object):
             # 一级导航栏点击
             module1_name = change_first_navigate(module1_name, self.driver)
             # 查询第二级导航栏
-            second_navigate_sql = "SELECT S.id, S.s_module  FROM S INNER JOIN L ON S.belong_id = L.id  AND S.is_old_module = 0  AND S.have_export = 1 AND S.belong_id =  '" + module1_id + "'"
+            second_navigate_sql = "SELECT S.id, S.s_module  FROM S INNER JOIN L ON S.belong_id = L.id  AND S.is_old_module = 0  AND S.have_export = 1 AND S.belong_id = '" + module1_id + "'"
             # 数据库连接
             data2 = db_connect(second_navigate_sql)
             for item in data2:

@@ -3,32 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="553fa26c-b012-49a8-9a7e-f2c8b39d2358" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/test_new_export1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/test_new_import1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/test_old_export2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/test_old_import2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_new_export1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/test_new_export1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_new_import1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/test_new_import1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_old_export2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/test_old_export2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_old_import2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/test_old_import2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/read_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/read_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_cms/~$read_file111.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_cms/~$read_file333.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_cms/上报单明细.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms/read_file.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_cms/read_file.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms3/上报单明细.xls" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/data_cms3/客户管理1.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_cms3/客户管理1.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/data_cms3/客户管理2.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_cms3/客户管理2.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/delete_blank.py" beforeDir="false" afterPath="$PROJECT_DIR$/frame/delete_blank.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame/go_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/frame/go_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms3/经销商1.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_cms3/经销商1.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms3/经销商2.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/data_cms3/经销商2.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms5/上报单明细.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms7/上报单明细.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_cms8/上报单明细.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_test/上报单明细.xls" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frame/is_element_exist.py" beforeDir="false" afterPath="$PROJECT_DIR$/frame/is_element_exist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frame/webElementWait.py" beforeDir="false" afterPath="$PROJECT_DIR$/frame/webElementWait.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page_object/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page_object/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_port_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_port_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/change_navigate.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/change_navigate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/change_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/change_table.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/export.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/export.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/read_new_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/read_new_export.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/read_new_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/read_new_import.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/read_old_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/read_old_export.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/read_old_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/read_old_import.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_baidu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcase/test_export.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_export.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_import.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/WaiQin$run_port_test.coverage" NAME="run_port_test Coverage Results" MODIFIED="1544175741581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WaiQin$run_port_test.coverage" NAME="run_port_test Coverage Results" MODIFIED="1544523419765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WaiQin$test_baidu.coverage" NAME="test_baidu Coverage Results" MODIFIED="1543548442011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WaiQin$read_new_export.coverage" NAME="read_new_export Coverage Results" MODIFIED="1543288285334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
     <SUITE FILE_PATH="coverage/WaiQin$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1544175434505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -46,14 +43,15 @@
     <session id="450861368">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1504" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.48" value="2" />
           <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.54" value="1" />
@@ -62,38 +60,38 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.70" value="1" />
           <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="67" />
-          <entry key="ini" value="10" />
-          <entry key="log" value="43" />
-          <entry key="py" value="343" />
+          <entry key="html" value="73" />
+          <entry key="ini" value="13" />
+          <entry key="log" value="52" />
+          <entry key="py" value="382" />
           <entry key="spec" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="67" />
-          <entry key="Ini" value="10" />
-          <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="343" />
+          <entry key="HTML" value="73" />
+          <entry key="Ini" value="13" />
+          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="Python" value="382" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ini" value="155" />
-          <entry key="py" value="4596" />
-          <entry key="txt" value="18" />
+          <entry key="ini" value="158" />
+          <entry key="py" value="4880" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ini" value="155" />
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="4595" />
+          <entry key="Ini" value="158" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Python" value="4879" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
@@ -104,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_port_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="40" column="62" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="62" />
+            <state relative-caret-position="356">
+              <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
               <folding>
                 <element signature="e#30#40#0" expanded="true" />
               </folding>
@@ -114,12 +112,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/test_import.py">
+        <entry file="file://$PROJECT_DIR$/service/export.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="25">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="18" />
               <folding>
-                <element signature="e#15#25#0" expanded="true" />
+                <element signature="e#15#30#0" expanded="true" />
+                <element signature="e#2260#3186#0" />
+                <element signature="e#3258#4030#0" />
+                <element signature="e#6102#6119#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Report/2018-12-11 17-19-45Report.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frame/webElementWait.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="48" column="35" lean-forward="true" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page_object/login_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,10 +164,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testcase/test_export.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="50" column="82" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="50" selection-end-column="82" />
+            <state relative-caret-position="375">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_import.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#15#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,7 +205,6 @@
       <find>module_end</find>
       <find>f5</find>
       <find>order_radio_choose</find>
-      <find>radio_choose</find>
       <find>module_name</find>
       <find>巡店汇总统计</find>
       <find>is_old_module</find>
@@ -165,6 +212,17 @@
       <find>new_close_export_window</find>
       <find>close_order_window</find>
       <find>old_close_export_window</find>
+      <find>radio_choose\</find>
+      <find>radio_choose</find>
+      <find>form_input_radio_list</find>
+      <find>new_export_id2</find>
+      <find>tree_checkbox</find>
+      <find>new_export_id3</find>
+      <find>tree_select</find>
+      <find>close_select_window</find>
+      <find>left_group_panel</find>
+      <find>tip_widget_text</find>
+      <find>repeat_tips</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -189,21 +247,21 @@
         <option value="$PROJECT_DIR$/frame/DB_Connect.py" />
         <option value="$PROJECT_DIR$/service/change_table.py" />
         <option value="$PROJECT_DIR$/config/read_config.py" />
-        <option value="$PROJECT_DIR$/frame/is_element_exist.py" />
         <option value="$PROJECT_DIR$/test_baidu.py" />
-        <option value="$PROJECT_DIR$/service/change_navigate.py" />
-        <option value="$PROJECT_DIR$/testcase/test_import.py" />
         <option value="$PROJECT_DIR$/service/read_old_import.py" />
         <option value="$PROJECT_DIR$/service/read_old_export.py" />
         <option value="$PROJECT_DIR$/service/read_new_import.py" />
+        <option value="$PROJECT_DIR$/frame/go_homepage.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/testcase/test_import.py" />
+        <option value="$PROJECT_DIR$/frame/is_element_exist.py" />
+        <option value="$PROJECT_DIR$/service/change_navigate.py" />
         <option value="$PROJECT_DIR$/service/read_new_export.py" />
         <option value="$PROJECT_DIR$/config/config.ini" />
-        <option value="$PROJECT_DIR$/frame/webElementWait.py" />
-        <option value="$PROJECT_DIR$/frame/go_homepage.py" />
-        <option value="$PROJECT_DIR$/service/export.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/page_object/login_page.py" />
         <option value="$PROJECT_DIR$/run_port_test.py" />
+        <option value="$PROJECT_DIR$/frame/webElementWait.py" />
+        <option value="$PROJECT_DIR$/service/export.py" />
         <option value="$PROJECT_DIR$/testcase/test_export.py" />
       </list>
     </option>
@@ -242,17 +300,7 @@
             <path>
               <item name="WaiQin" type="b2602c69:ProjectViewProjectNode" />
               <item name="WaiQin" type="462c0819:PsiDirectoryNode" />
-              <item name="Logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WaiQin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaiQin" type="462c0819:PsiDirectoryNode" />
               <item name="page_object" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WaiQin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaiQin" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WaiQin" type="b2602c69:ProjectViewProjectNode" />
@@ -449,19 +497,26 @@
       <option name="project" value="LOCAL" />
       <updated>1543199441542</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="以访问数据库的方式获取导航栏和tab栏">
+      <created>1544175922536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544175922536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12275064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12532134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.35309973" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.025641026" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18218623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -512,204 +567,38 @@
     <MESSAGE value="add" />
     <MESSAGE value="文件读取路径整合到配置文件中" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="以访问数据库的方式获取导航栏和tab栏" />
+    <option name="LAST_COMMIT_MESSAGE" value="以访问数据库的方式获取导航栏和tab栏" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcase/test_export.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/test_baidu.py</url>
           <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/service/read_new_import.py</url>
-          <option name="timeStamp" value="103" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Report/2018-12-07 15-14-24Report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="87" lean-forward="true" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/read_new_export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="37" column="119" lean-forward="true" selection-start-line="37" selection-start-column="99" selection-end-line="37" selection-end-column="119" />
-          <folding>
-            <element signature="e#15#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frame/go_homepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Report/2018-12-07 15-56-27Report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Report/2018-12-07 16-44-30Report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="80" column="69" lean-forward="true" selection-start-line="80" selection-start-column="69" selection-end-line="80" selection-end-column="69" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-            <element signature="e#4119#5352#0" />
-            <element signature="e#5421#6066#0" />
-            <element signature="e#6137#8967#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/read_old_export.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-          <folding>
-            <element signature="e#15#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 164438.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 161853.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1955" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 155632.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-80" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 154337.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 153700.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 153049.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 151428.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 151348.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 151324.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 150350.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 122916.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 122321.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 122209.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 120836.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 113903.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 112300.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 111602.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 111121.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 110334.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 105800.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 105407.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 104906.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 103447.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="24" column="64" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="24" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 101231.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 101116.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 100032.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 095017.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 094444.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 182644.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 181938.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 181405.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 174443.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 174007.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 173732.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/wq_import.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 111602.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 111121.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 110334.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 105800.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 105407.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 104906.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 103447.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 101231.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 101116.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 100032.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 095017.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 094444.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 182644.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 181938.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 181405.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 174443.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 174007.log" />
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-06 173732.log" />
     <entry file="file://G:/Python/Lib/unittest/suite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -724,16 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page_object/login_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -741,12 +620,123 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-07 175512.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-12-10 14-55-38Report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-10 164540.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="38" selection-start-line="13" selection-start-column="10" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-12-10 16-45-30Report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-10 145552.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-11 131934.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-11 121403.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2606">
+          <caret line="121" column="65" lean-forward="true" selection-start-line="121" selection-start-column="65" selection-end-line="121" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-11 122125.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/2018-12-11 123002.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-619">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frame/is_element_exist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/change_navigate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/change_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service/read_new_import.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
+        <state relative-caret-position="525">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
             <element signature="e#15#56#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/read_old_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="83" lean-forward="true" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="83" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/read_old_import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/wq_import.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/read_new_export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -757,30 +747,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_port_test.py">
+    <entry file="file://$PROJECT_DIR$/service/juge_old_export.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="40" column="62" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="62" />
+        <state relative-caret-position="622">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#30#40#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="48" column="35" lean-forward="true" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_object/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/test_import.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="541">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#15#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-12-11 16-38-46Report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-12-11 16-46-59Report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-12-11 16-56-21Report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Report/2018-12-11 17-19-45Report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frame/webElementWait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/export.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+            <element signature="e#2260#3186#0" />
+            <element signature="e#3258#4030#0" />
+            <element signature="e#6102#6119#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_port_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="43" column="12" lean-forward="true" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding>
+            <element signature="e#30#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testcase/test_export.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="50" column="82" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="50" selection-end-column="82" />
+        <state relative-caret-position="375">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>

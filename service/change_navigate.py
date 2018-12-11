@@ -2,7 +2,6 @@ import time
 from selenium.webdriver.common.by import By
 from frame.iframe_skip import iframe_skip
 from frame.is_element_exist import IsElementExist
-from frame.logger import Logger
 
 
 # 导航栏数据处理
